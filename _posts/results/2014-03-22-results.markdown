@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Stock Rods	| Sean Alessi	| Kerryn Bailey |	Kate Croker |
+| Series	| Ashley Hodack	| Dean Alessi	| Cheyenne Farrell Wood
+| Micro Sprints	| Grahame Porter	| Jake Marchant	| Gary Heart |
+| GPs	| Scott Moir	| Cory Tatacko	| Jennel Saville |
+| Juniors	| Braydan Willmington	| Reece Robson	| Tina Granger |
+| Dwarf Cars	| Rob Swain	| Kevin Brooks	| Nathan O'Brian |
+| F500s	| Tony Pryor	| Paul Gray	| Parker Johnson

@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Stock Rods	| Peter Croker	| Mitch Brown	| Dean Alessi |
+| Mod Lites	| Rob Swain	| Bruce Adams	| Kenny Brooks |
+| GPs	| Scott Moir	| Trevor Perry	| Cory Tatarko |
+| Juniors	| Steven King	| Sean Rooney	| Tim Vilnis |
+| Fender Benders	| Chrif Chaffy	| David Browne	| Tony Irwin |
+| F500's	| Daniel Broadbent	| Nathan Pryor	| Paul Gray |

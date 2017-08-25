@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Stock Rods	| Peter Croker |	Sean Alessi	| Greg Brown |
+| National Fours	| Shannon Gallaher	| Craig McAlister	| Dennis Richardson |
+| Juniors	| Steven King	| Ben LLoyd	| Tim Vilnis |
+| Compacts	| Rob Eyeington	| Alan Day	| Carl Yenne |
+| GP's	| Cory Tatarko	| David Brown jr	| Jennel Saville |
+| Legend Cars	| Braydan Willmington	| Glen Mitchell	| Rob Rawling |

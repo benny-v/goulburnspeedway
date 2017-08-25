@@ -1,0 +1,44 @@
+.navbar .social {
+  padding-left: 10px;
+  @media screen and (min-width: $grid-float-breakpoint) {
+    position: absolute;
+    right: 5px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+
+.footer .social {
+  .social__facebook{
+    &:hover,
+    &:focus{
+      color: lighten(#3B5998,10%);
+    }
+  }
+  .social__mail{
+    &:hover,
+    &:focus{
+      color: lighten(#428bca,10%);
+    }
+  }
+}
+
+.social {
+  .fa {
+    padding-right: 10px;
+  }
+  .social__facebook{
+    color: #3B5998;
+    &:hover,
+    &:focus {
+      color: darken(#3B5998,20%);
+    }
+  }
+  .social__mail{
+      color: #428bca;
+      &:hover,
+      &:focus {
+        color: darken(#428bca,20%);
+      }
+  }
+}

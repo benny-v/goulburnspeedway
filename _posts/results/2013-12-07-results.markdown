@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Stock Rods	| Brian McAlister	| Kate Croker	| Brent Croker |
+| Series	| Craig McAlister	| David House	| Damian McAlister |
+| Micro Sprints	| Brett Sainsbury	| Mitch Isaacs	| Mitch Binder |
+| F500's	| Tony Pryor	| Daniel Broadbent	| Paul Gray |
+| Juniors	| Braydan Willmington	| Sean Rooney	| Jed Anson |
+| Modified | Production	| Adam Lloyd	| John Murphy	| Shane Murphy |

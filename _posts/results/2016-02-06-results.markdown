@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Mod Lites |	Bruce Adams | 	Rob Swain |	Kenny Brooks |
+| Wingless	| Jason Bates	| Nathan Dicker	| Jeff Neve |
+| GP's |	Paul Perry |	Trevor Perry |	3rd Lisa Chalcraft 4th Stuart McMahon

@@ -1,0 +1,20 @@
+---
+layout: default
+permalink: /latest-news/
+title: Latest News
+---
+
+<ul class="post-list">
+  {% for post in site.posts %}
+    {% if post.categories contains "latest-news" %}
+    <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} - {{ post.date | date: "%b %-d, %Y" }}</a>
+        </h2>
+        <div>
+          {{ post.content }}
+        </div>
+      </li>
+      {% endif %}
+  {% endfor %}
+</ul>

@@ -1,0 +1,32 @@
+.container-fluid {
+  max-width: 1200px;
+}
+
+.post-header {
+  h1 {
+    font-size: 26px;
+  }
+}
+.page-content {
+  background:#fff;
+  padding: 30px;
+  margin-bottom: 40px;
+  border-radius: 5px;
+}
+
+.home {
+  .page-content{
+    padding: 0px;
+  }
+}
+
+.post-list {
+  margin: 0;
+  li {
+    list-style: none;
+    margin-bottom: 25px;
+    h2 {
+      margin-bottom: 0;
+    }
+  }
+}

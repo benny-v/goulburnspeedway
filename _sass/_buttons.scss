@@ -1,0 +1,30 @@
+.btn-main {
+  padding: 15px 25px 15px 25px;
+  display: block;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  font-size: 18px;
+  font-weight: 700;
+  background: $color-black-lt;
+  color: $color-orange;
+
+  &:visited {
+    color: $color-orange;
+  }
+  &:hover,
+  &:focus {
+    color: darken($color-orange,10%);
+    background: darken($color-black-lt,5%);
+    text-decoration: none;
+  }
+
+  .fa {
+    padding-right: 15px;
+  }
+
+}
+
+.btn-back {
+  margin-bottom: 30px;
+  background: #e7e7e7;
+}

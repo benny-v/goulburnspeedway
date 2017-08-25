@@ -1,0 +1,21 @@
+.header {
+
+}
+
+.next-meeting {
+  background: $color-black-lt;
+  padding: 0 15px;
+  width: 100%;
+  .next-meeting__text {
+    color: #c1c1c1;
+    padding: 5px 0;
+    margin: 0 15px 0 0;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding-right: 15px;
+    }
+    small {
+      color: #c1c1c1;
+    }
+}

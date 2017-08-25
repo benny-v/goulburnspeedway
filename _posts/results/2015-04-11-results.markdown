@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Stock Rods	| Sean Alessi	| Jeff Martin	| Dean Alessi |
+| Compacts	| Mitch Biner	| Rob Eyeington	| Richard Meyers |
+| Juniors	| Steven King	| Jed Anson	| Cody Boulding |
+| Production Sedans	| Shane Murphy	| Kevin Sherwood	| Doc Baily |
+| Sprint Cars	| Jimmy Haatchett	| Mark Attard	| Jay Waugh |

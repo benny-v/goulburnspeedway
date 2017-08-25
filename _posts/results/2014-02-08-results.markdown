@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Stock Rods |	Sean Alessi	 | Jamie Marshall |	Kerryn Bailey |
+| Series	| Daryl Moon	| Damien McAlister |	Craig McAlister |
+| Compacts	| Steven Hawksworth	| Lee Stokes	| Craig Hicky |
+| GPs	| Scott Moir	| Jennel Saville	| Daryl Wood |
+| Juniors	| Braydan Willmington	| Jed Anson	| Sean Rooney |
+| Legend Cars	| Brad Giffin	| Darren Corey	| Glen Philpott or Paul Oprey TBC
+| Super Sedans	| Paul Kranitis	| Keith Sims	| Scott Haynes

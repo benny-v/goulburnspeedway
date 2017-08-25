@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Stock Rods Twin Driver	| Sean Alessi - Adam Lloyd	| Kate Croker - Geoff Martin	| Kerryn Bailey - Bob Sharp |
+| Series	| Brett Norman	| David House	| Damien McAlister |
+| Compacts	| Carl Yenne	| Craig Hickey	| Rob Eyeington |
+| GPs	| Ashley Booker	| Scott Moir	| Johnny Kyriacou |
+| Juniors	| Braydan Willmington	| Maddison Granger	| Steven King |
+| Dwarf Cars	| Barry Hallett	| Rob Swain	| Gabby Yammouni |
+| F500s	| Jaimie McKinley	| Tony Pryor	| Paul Gray |

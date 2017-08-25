@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Stock Rods	| Kate Croker |	Kerryn Bailey |	Jamie Marshall |
+| Series	| Brett Norman	| Damian McAlister	| Michael Rogers |
+| Juniors	| Braydan Willmington	| Jed Anson	| Sean Rooney |
+| Super Sedans	| Mick Nicola	| Peter Nicola	| Matty Pascoe |
+| Demo	| Darryl Thorpe |

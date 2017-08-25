@@ -1,0 +1,30 @@
+.sponsors {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  //align-content: space-between;
+  //align-content: space-around;
+
+
+  .sponsors__item {
+    background: white;
+    color: black;
+    width: 33.33%;
+    border: 10px solid $color-black-lt;
+    text-align: center;
+    h2 {color: #c1c1c1;}
+    padding: 15px;
+    @media screen and (max-width: 991px){
+      width: 50%;
+    }
+    @media screen and (max-width: 386px){
+      width: 100%;
+    }
+    .sponsors__link{
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      display: block;
+    }
+  }
+}

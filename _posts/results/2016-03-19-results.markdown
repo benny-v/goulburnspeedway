@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Mod Lites	| Rob Swain	| Bruce Adams | Ayden Elliott |
+| Compacts | Darren Vine	| Rob Eyeington	 | Jason Essai |
+| GP's	| Corey Tatarko	| Janelle Saville	| Tyrin Haynes |
+| Juniors	| Ben Lloyd	| Jed Anson	| Cody Boulding
