@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Modified Sedans | Wayne Olive | Brad Wise | Adam Lloyd |
+| Micro Sprints | Jake Merchant | Mitch Isaacs | Andrew Baker |
+| GPs | Tyrtn Haynes | Keiran McMacklyn | Steve Hines |
+| Wingless Sprints | Marshell Blyton | Harley Smee | Troy Carey |

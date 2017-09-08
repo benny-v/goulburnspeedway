@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| GPs | Geoff Marsh | Cory Tatarko | Keiran Macklyn |
+| Production Sedans | Wayne Burke | Damien McAlister | Craig McAlister |
+| f500s | Steve Caunt | Daniel Broadbent | Sean Barnett |
+| Legends | Rob Rawlings | Jacob Griffin | Graham Keats |
+| Modified Sedans | Adam Loyld | Shane Murphy | Clint Watson |
+| Modified Sedans | Luke Straub |  |  |
