@@ -1,4 +1,5 @@
 ---
-layout: calender
+layout: calendar
 title: Calendar
+permalink: /calendar/
 ---
