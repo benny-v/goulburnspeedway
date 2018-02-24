@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Production Sedans | Trevor Mills | Josh Crang | Jack Milthorpe |
+| Micro Sprints | Ernie Havas | Paul Curran | Lachlan Isaacs |
+| Legend Cars | Liam Heaton | Jacob Griffin | Haden Pascoe |
+| Modified Sedans | Shane Murphy | Clint Watson | Brad Wise |

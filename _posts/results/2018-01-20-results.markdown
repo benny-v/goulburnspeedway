@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Fender Benders | Simon Kaczorowski | Neil White | Scott Campbell |
+| Southern Super Sedans | Dean Johnson | Scott Haynes | Daryl Moon |
+| GP Midgets | Trevor Perry | David Bacon | Gerard Macklyn |
+| Mod Lites | Willam Butler | Rob Swain | Andrew Martin |
+| Compact Speedway Cars | Darren Margules | Grant Lahiff | Allan Day |
+| Formula 500s | Steve Curnt | Nathan Pryor | Kent McDonald |
