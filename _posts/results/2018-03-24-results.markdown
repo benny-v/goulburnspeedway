@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Results"
+categories: results
+---
+
+| Event         | 1st           | 2nd   | 3rd     |
+| ------------- |-------------  | ----- | ------- |
+| Micro sprints | Jackson Isaacs | Mitchell Isaacs | Paul Curran |
+| Junior Sedans | Harrison Granger | Jack Murphy | Liam Murphy |
+| GP Midgets | Trevor Perry | Janelle Saville | Gerard Macklyn |
+| Legend Cars | Hayden Pascoe | Dalton Rowell | Liam Heaton |
+| Compact Speedway Cars | Mark Heaton | Alan Gray | Grant Lahiff |
+| Formula 500s | Kent McDonald | Linden Martin | Tim Randell |
