@@ -12,7 +12,7 @@ server:
 pub: publish
 
 publish: site
-	aws s3 sync public/. s3://goulburnspeedway.com
+	aws s3 sync _site/. s3://goulburnspeedway.com
 
 site:
 	jekyll build
