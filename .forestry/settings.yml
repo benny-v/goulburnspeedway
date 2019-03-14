@@ -4,11 +4,8 @@ auto_deploy: true
 admin_path: "/admin"
 webhook_url: 
 sections:
-- type: jekyll-pages
-  label: Pages
-  create: all
 - type: jekyll-posts
-  label: Posts
+  label: News & Results
   create: all
 upload_dir: uploads
 public_path: "/uploads"
