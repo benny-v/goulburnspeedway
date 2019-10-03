@@ -9,10 +9,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
-    - name: Download AWS CLI
+    - name: Download AWS CLI & Jekyll
       run: |
         sudo apt update && \
-        sudo apt install awscli
+        sudo apt install awscli jekyll
     
     - name: Run Makefile
       env:
