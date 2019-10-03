@@ -1,0 +1,22 @@
+name: Jekyll site CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Download AWS CLI
+      run: |
+        sudo apt update && \
+        sudo apt install awscli
+    
+    - name: Run Makefile
+      env:
+         AWS_ACCESS_KEY_ID: ${{ secrets. aws_access_key_id }}
+         AWS_SECRET_ACCESS_KEY: ${{ secrets. aws_secret_access_key }}
+      run: |
+        make publish
