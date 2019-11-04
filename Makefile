@@ -4,18 +4,11 @@
 # Seriously, why do you need more than this?
 #
 
-all: help
+.PHONY: server
+server:	jekyll serve
 
-server:
-	jekyll serve
-
-pub: publish
-
-publish: site
-	aws s3 sync _site/. s3://goulburnspeedway.com
-
-site:
-	jekyll build
-
-help:
-echo "Make commands: server, publish, site"
+.PHONY: push
+push:
+	git add -A
+	git commit -m "site update"
+	git push
