@@ -1,0 +1,37 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Production Sedans</td>
+      <td>Trevor Mills</td>
+      <td>Danny Harrision</td>
+      <td>Adam Wilson</td>
+    </tr>
+    <tr>
+      <td>Fender Benders</td>
+      <td>Peter Bailey</td>
+      <td>Lorcon Elliot</td>
+      <td>Simon Kaczorwski</td>
+    </tr>
+    <tr>
+      <td>GP’s</td>
+      <td>To be re-run</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Micro Sprints</td>
+      <td>Rhy Mearchant</td>
+      <td>Michael Cassar</td>
+      <td>Ernie Havis</td>
+    </tr>
+  </tbody>
+</table>
+:ET

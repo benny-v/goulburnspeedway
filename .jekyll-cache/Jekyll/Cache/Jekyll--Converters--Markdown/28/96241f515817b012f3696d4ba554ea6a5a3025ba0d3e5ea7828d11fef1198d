@@ -1,0 +1,37 @@
+I"‘<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mod Lites</td>
+      <td>Rob Swain</td>
+      <td>Bruce Adams</td>
+      <td>Ayden Elliott</td>
+    </tr>
+    <tr>
+      <td>Compacts</td>
+      <td>Darren Vine</td>
+      <td>Rob Eyeington</td>
+      <td>Jason Essai</td>
+    </tr>
+    <tr>
+      <td>GPâ€™s</td>
+      <td>Corey Tatarko</td>
+      <td>Janelle Saville</td>
+      <td>Tyrin Haynes</td>
+    </tr>
+    <tr>
+      <td>Juniors</td>
+      <td>Ben Lloyd</td>
+      <td>Jed Anson</td>
+      <td>Cody Boulding</td>
+    </tr>
+  </tbody>
+</table>
+:ET

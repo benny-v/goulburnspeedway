@@ -1,0 +1,49 @@
+I"Ô<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Production Sedans</td>
+      <td>Damien McAlister</td>
+      <td>Darren Snowden</td>
+      <td>Wes Barnes</td>
+    </tr>
+    <tr>
+      <td>Micro Sprints</td>
+      <td>Ernie Havas</td>
+      <td>Andrew Baker</td>
+      <td>Jackson Isaacs</td>
+    </tr>
+    <tr>
+      <td>Super Sedans Develoment Series</td>
+      <td>Mark Sommers</td>
+      <td>Steve Johnson</td>
+      <td>Glen Stoddart</td>
+    </tr>
+    <tr>
+      <td>Lighting Sprints</td>
+      <td>Dean Eden</td>
+      <td>Danny Stone</td>
+      <td>Chris Davis</td>
+    </tr>
+    <tr>
+      <td>Mod Lites</td>
+      <td>Rob Swain</td>
+      <td>Ron Sheers JR</td>
+      <td>Steve Hines</td>
+    </tr>
+    <tr>
+      <td>Super Sedans NSW Series</td>
+      <td>Lacchlan Onley</td>
+      <td>Paul Kranitis</td>
+      <td>Andrew White</td>
+    </tr>
+  </tbody>
+</table>
+:ET

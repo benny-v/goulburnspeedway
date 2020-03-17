@@ -1,0 +1,49 @@
+I"À<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fender Benders</td>
+      <td>Simon Kaczorowski</td>
+      <td>Neil White</td>
+      <td>Scott Campbell</td>
+    </tr>
+    <tr>
+      <td>Southern Super Sedans</td>
+      <td>Dean Johnson</td>
+      <td>Scott Haynes</td>
+      <td>Daryl Moon</td>
+    </tr>
+    <tr>
+      <td>GP Midgets</td>
+      <td>Trevor Perry</td>
+      <td>David Bacon</td>
+      <td>Gerard Macklyn</td>
+    </tr>
+    <tr>
+      <td>Mod Lites</td>
+      <td>Willam Butler</td>
+      <td>Rob Swain</td>
+      <td>Andrew Martin</td>
+    </tr>
+    <tr>
+      <td>Compact Speedway Cars</td>
+      <td>Darren Margules</td>
+      <td>Grant Lahiff</td>
+      <td>Allan Day</td>
+    </tr>
+    <tr>
+      <td>Formula 500s</td>
+      <td>Steve Curnt</td>
+      <td>Nathan Pryor</td>
+      <td>Kent McDonald</td>
+    </tr>
+  </tbody>
+</table>
+:ET

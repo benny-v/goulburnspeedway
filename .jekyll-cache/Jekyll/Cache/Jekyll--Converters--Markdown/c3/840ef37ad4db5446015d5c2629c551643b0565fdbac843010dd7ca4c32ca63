@@ -1,0 +1,43 @@
+I"M<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Legend Cars</td>
+      <td>Legend Cars</td>
+      <td>Adam Parker</td>
+      <td>Nathan Moreau</td>
+    </tr>
+    <tr>
+      <td>Fender Benders</td>
+      <td>Peter Chaffy</td>
+      <td>Neil White</td>
+      <td>Paul Farkas</td>
+    </tr>
+    <tr>
+      <td>Late Models Michelle Ward Memorial</td>
+      <td>Ben Nicastri</td>
+      <td>Nathan Disney</td>
+      <td>Ryan Fenech</td>
+    </tr>
+    <tr>
+      <td>Juniors</td>
+      <td>Riley Flanagan</td>
+      <td>Harrison Granger</td>
+      <td>Charlotte Fouracre</td>
+    </tr>
+    <tr>
+      <td>RSA 4s</td>
+      <td>Dennis Richardson</td>
+      <td>Deckland Brownsley</td>
+      <td>Nathan Williams</td>
+    </tr>
+  </tbody>
+</table>
+:ET

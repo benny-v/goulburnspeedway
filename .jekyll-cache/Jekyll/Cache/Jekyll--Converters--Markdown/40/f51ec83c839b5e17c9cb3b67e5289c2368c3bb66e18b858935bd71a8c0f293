@@ -1,0 +1,49 @@
+I"Œ<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stock Rods</td>
+      <td>Peter Croker</td>
+      <td>Mitch Brown</td>
+      <td>Dean Alessi</td>
+    </tr>
+    <tr>
+      <td>Mod Lites</td>
+      <td>Rob Swain</td>
+      <td>Bruce Adams</td>
+      <td>Kenny Brooks</td>
+    </tr>
+    <tr>
+      <td>GPs</td>
+      <td>Scott Moir</td>
+      <td>Trevor Perry</td>
+      <td>Cory Tatarko</td>
+    </tr>
+    <tr>
+      <td>Juniors</td>
+      <td>Steven King</td>
+      <td>Sean Rooney</td>
+      <td>Tim Vilnis</td>
+    </tr>
+    <tr>
+      <td>Fender Benders</td>
+      <td>Chrif Chaffy</td>
+      <td>David Browne</td>
+      <td>Tony Irwin</td>
+    </tr>
+    <tr>
+      <td>F500â€™s</td>
+      <td>Daniel Broadbent</td>
+      <td>Nathan Pryor</td>
+      <td>Paul Gray</td>
+    </tr>
+  </tbody>
+</table>
+:ET

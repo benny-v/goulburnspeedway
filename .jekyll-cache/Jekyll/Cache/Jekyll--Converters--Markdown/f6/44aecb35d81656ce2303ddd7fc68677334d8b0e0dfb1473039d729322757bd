@@ -1,0 +1,49 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>GPs</td>
+      <td>Geoff Marsh</td>
+      <td>Cory Tatarko</td>
+      <td>Keiran Macklyn</td>
+    </tr>
+    <tr>
+      <td>Production Sedans</td>
+      <td>Wayne Burke</td>
+      <td>Damien McAlister</td>
+      <td>Craig McAlister</td>
+    </tr>
+    <tr>
+      <td>f500s</td>
+      <td>Steve Caunt</td>
+      <td>Daniel Broadbent</td>
+      <td>Sean Barnett</td>
+    </tr>
+    <tr>
+      <td>Legends</td>
+      <td>Rob Rawlings</td>
+      <td>Jacob Griffin</td>
+      <td>Graham Keats</td>
+    </tr>
+    <tr>
+      <td>Modified Sedans</td>
+      <td>Adam Loyld</td>
+      <td>Shane Murphy</td>
+      <td>Clint Watson</td>
+    </tr>
+    <tr>
+      <td>Modified Sedans</td>
+      <td>Luke Straub</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+:ET

@@ -1,0 +1,43 @@
+I")<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fender Benders</td>
+      <td>Peter Chaffey</td>
+      <td>Christine Moxon</td>
+      <td>Peter Bailey</td>
+    </tr>
+    <tr>
+      <td>Mod lites</td>
+      <td>Trent Mclean</td>
+      <td>Andrew Martin</td>
+      <td>Kenny Brooks</td>
+    </tr>
+    <tr>
+      <td>F500s</td>
+      <td>Paul Gray</td>
+      <td>Danial Broadbent</td>
+      <td>Sean Barnett</td>
+    </tr>
+    <tr>
+      <td>Compacts</td>
+      <td>Rob Eyeington</td>
+      <td>Mark Heaton</td>
+      <td>Stewart Henderson</td>
+    </tr>
+    <tr>
+      <td>Late Models</td>
+      <td>Devin Moran</td>
+      <td>Ben Nicastri</td>
+      <td>Nathan Disney</td>
+    </tr>
+  </tbody>
+</table>
+:ET

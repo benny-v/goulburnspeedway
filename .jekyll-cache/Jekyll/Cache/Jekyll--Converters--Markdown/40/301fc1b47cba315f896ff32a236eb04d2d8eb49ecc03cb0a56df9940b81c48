@@ -1,0 +1,43 @@
+I"<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stock Rods</td>
+      <td>Sean Alessi</td>
+      <td>Jeff Martin</td>
+      <td>Dean Alessi</td>
+    </tr>
+    <tr>
+      <td>Compacts</td>
+      <td>Mitch Biner</td>
+      <td>Rob Eyeington</td>
+      <td>Richard Meyers</td>
+    </tr>
+    <tr>
+      <td>Juniors</td>
+      <td>Steven King</td>
+      <td>Jed Anson</td>
+      <td>Cody Boulding</td>
+    </tr>
+    <tr>
+      <td>Production Sedans</td>
+      <td>Shane Murphy</td>
+      <td>Kevin Sherwood</td>
+      <td>Doc Baily</td>
+    </tr>
+    <tr>
+      <td>Sprint Cars</td>
+      <td>Jimmy Haatchett</td>
+      <td>Mark Attard</td>
+      <td>Jay Waugh</td>
+    </tr>
+  </tbody>
+</table>
+:ET

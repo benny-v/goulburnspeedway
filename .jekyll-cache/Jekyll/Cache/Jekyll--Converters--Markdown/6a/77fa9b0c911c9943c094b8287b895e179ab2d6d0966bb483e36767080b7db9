@@ -1,0 +1,49 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Production Sedans</td>
+      <td>Johnny Ralph</td>
+      <td>Darren Snowden</td>
+      <td>Craig McAlister</td>
+    </tr>
+    <tr>
+      <td>Mod Lites</td>
+      <td>Rob Swain</td>
+      <td>Mick St John</td>
+      <td>Aidon Elliot</td>
+    </tr>
+    <tr>
+      <td>GP’s</td>
+      <td>Cory Tatarko</td>
+      <td>Trevor Perry</td>
+      <td>Scott Moir</td>
+    </tr>
+    <tr>
+      <td>Micro Sprints</td>
+      <td>Brett Sainsbury</td>
+      <td>Paul Curren</td>
+      <td>Rhy Mearchant</td>
+    </tr>
+    <tr>
+      <td>F500’s</td>
+      <td>Kenny Norman</td>
+      <td>Chase Norman</td>
+      <td>Nathan Pryor</td>
+    </tr>
+    <tr>
+      <td>Southern Super Sedans</td>
+      <td>Paul Kranitis</td>
+      <td>Kelvin Minor</td>
+      <td>Scott Haines</td>
+    </tr>
+  </tbody>
+</table>
+:ET

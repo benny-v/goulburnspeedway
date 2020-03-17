@@ -1,0 +1,43 @@
+I"<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stock Rods</td>
+      <td>Kate Croker</td>
+      <td>Kerryn Bailey</td>
+      <td>Jamie Marshall</td>
+    </tr>
+    <tr>
+      <td>Series</td>
+      <td>Brett Norman</td>
+      <td>Damian McAlister</td>
+      <td>Michael Rogers</td>
+    </tr>
+    <tr>
+      <td>Juniors</td>
+      <td>Braydan Willmington</td>
+      <td>Jed Anson</td>
+      <td>Sean Rooney</td>
+    </tr>
+    <tr>
+      <td>Super Sedans</td>
+      <td>Mick Nicola</td>
+      <td>Peter Nicola</td>
+      <td>Matty Pascoe</td>
+    </tr>
+    <tr>
+      <td>Demo</td>
+      <td>Darryl Thorpe</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+:ET

@@ -1,0 +1,55 @@
+I""<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stock Rods</td>
+      <td>Craig McAlister</td>
+      <td>Sean Alessi</td>
+      <td>Mitch Brown</td>
+    </tr>
+    <tr>
+      <td>Production Sedans</td>
+      <td>Brett Norman</td>
+      <td>Brent Croker</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>Compacts</td>
+      <td>Tony Abson</td>
+      <td>Steven Hawksworth</td>
+      <td>Craig Hickey</td>
+    </tr>
+    <tr>
+      <td>GPs</td>
+      <td>Scott Moir</td>
+      <td>Cory Tatarko</td>
+      <td>Janelle Saville</td>
+    </tr>
+    <tr>
+      <td>Juniors</td>
+      <td>Sean Rooney</td>
+      <td>Jed Anson</td>
+      <td>Tim Kershaw</td>
+    </tr>
+    <tr>
+      <td>Fender Benders</td>
+      <td>David Browne</td>
+      <td>Steve Walsh</td>
+      <td>Peter Baily</td>
+    </tr>
+    <tr>
+      <td>F500s ACT Title</td>
+      <td>Nathan Pronger</td>
+      <td>James Aranyosi</td>
+      <td>Josh Buckingham</td>
+    </tr>
+  </tbody>
+</table>
+:ET

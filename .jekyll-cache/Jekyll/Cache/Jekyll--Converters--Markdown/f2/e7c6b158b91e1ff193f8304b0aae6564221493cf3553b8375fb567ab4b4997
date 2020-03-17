@@ -1,0 +1,49 @@
+I"Ž<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stock Rods</td>
+      <td>Sean Alessi</td>
+      <td>Peter Croker</td>
+      <td>Greg Brow</td>
+    </tr>
+    <tr>
+      <td>Mod Lites</td>
+      <td>Rob Swain</td>
+      <td>Gaby Yammouni</td>
+      <td>Bruce Adams</td>
+    </tr>
+    <tr>
+      <td>GPs</td>
+      <td>Scott Moir</td>
+      <td>Cory Tatarko</td>
+      <td>Janelle Saville</td>
+    </tr>
+    <tr>
+      <td>Juniors</td>
+      <td>Jed Anson</td>
+      <td>Sean Rooney</td>
+      <td>Steven King</td>
+    </tr>
+    <tr>
+      <td>Fender Benders</td>
+      <td>David Browne</td>
+      <td>Shane Ward</td>
+      <td>Steve Walsh</td>
+    </tr>
+    <tr>
+      <td>Late Models</td>
+      <td>Ben Nicastri</td>
+      <td>Nathan Disney</td>
+      <td>Ryan Fenech</td>
+    </tr>
+  </tbody>
+</table>
+:ET

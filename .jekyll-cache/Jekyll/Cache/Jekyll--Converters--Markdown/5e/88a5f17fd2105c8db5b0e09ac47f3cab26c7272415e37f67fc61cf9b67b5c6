@@ -1,0 +1,49 @@
+I"�<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mod Lites</td>
+      <td>Bruce Adams</td>
+      <td>Glen Mitchell</td>
+      <td>Brad Forgeard</td>
+    </tr>
+    <tr>
+      <td>Compacts</td>
+      <td>Rob Eyeington</td>
+      <td>Jason Essai</td>
+      <td>Aidan Corish</td>
+    </tr>
+    <tr>
+      <td>Production Sedans</td>
+      <td>Brett Norman</td>
+      <td>Brent Croker</td>
+      <td>Craig McAlister</td>
+    </tr>
+    <tr>
+      <td>Super Sedans</td>
+      <td>Lachian Onley</td>
+      <td>Mark Towers</td>
+      <td>Paul Kranitis</td>
+    </tr>
+    <tr>
+      <td>Modified Sedans</td>
+      <td>Shane Murphy</td>
+      <td>Adam LLoyd</td>
+      <td>Brad Wise</td>
+    </tr>
+    <tr>
+      <td>Demo Derby</td>
+      <td>Chris Campbell</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+  </tbody>
+</table>
+:ET

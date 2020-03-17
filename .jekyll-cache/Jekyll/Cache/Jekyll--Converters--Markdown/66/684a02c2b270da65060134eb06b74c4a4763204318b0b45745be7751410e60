@@ -1,0 +1,49 @@
+I"º<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fender Benders</td>
+      <td>Steven Sharp</td>
+      <td>Shane Maxon</td>
+      <td>Rob Rigoli</td>
+    </tr>
+    <tr>
+      <td>Production Sedans</td>
+      <td>Damien McAlister</td>
+      <td>Chris Croker</td>
+      <td>Terry Mulach</td>
+    </tr>
+    <tr>
+      <td>Micro Sprints</td>
+      <td>Paul Curren</td>
+      <td>Brett Sansbury</td>
+      <td>Mitch Issacs</td>
+    </tr>
+    <tr>
+      <td>GPâ€™s</td>
+      <td>Cory Tatacko</td>
+      <td>Ronnie Scheers JR</td>
+      <td>Stuart McMahon</td>
+    </tr>
+    <tr>
+      <td>Compacts</td>
+      <td>Rob Eyeington</td>
+      <td>Mark Heaton</td>
+      <td>Darren Harksworth</td>
+    </tr>
+    <tr>
+      <td>Late Models</td>
+      <td>Ryan Fenech</td>
+      <td>Scott McPherson</td>
+      <td>Todd Bayley</td>
+    </tr>
+  </tbody>
+</table>
+:ET

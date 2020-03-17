@@ -1,0 +1,43 @@
+I"<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Stock Rods</td>
+      <td>Peter Croker</td>
+      <td>Sean Alessi</td>
+      <td>Mitch Brown</td>
+    </tr>
+    <tr>
+      <td>Wingless</td>
+      <td>Blake Darcy</td>
+      <td>Nathan Dicker</td>
+      <td>Clint McCorquodale</td>
+    </tr>
+    <tr>
+      <td>Juniors</td>
+      <td>Sean Rooney</td>
+      <td>Stevn King</td>
+      <td>Jed Anson</td>
+    </tr>
+    <tr>
+      <td>Compacts</td>
+      <td>Tony Aulsebrook</td>
+      <td>Rob Eyeington</td>
+      <td>Alan Day</td>
+    </tr>
+    <tr>
+      <td>F500’s</td>
+      <td>Roy Urpeth</td>
+      <td>Paul Gray</td>
+      <td>Jamie McKinlay</td>
+    </tr>
+  </tbody>
+</table>
+:ET

@@ -1,0 +1,31 @@
+I"(<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Production Sedans NSW Title</td>
+      <td>Damien McAlister</td>
+      <td>Tim Smith</td>
+      <td>Darren Snowden</td>
+    </tr>
+    <tr>
+      <td>GPs</td>
+      <td>Tyrin Haynes</td>
+      <td>Geof Marsh</td>
+      <td>Steve Hines</td>
+    </tr>
+    <tr>
+      <td>Fender Benders</td>
+      <td>Peter Baily</td>
+      <td>Steve Cox</td>
+      <td>Paul Farkas</td>
+    </tr>
+  </tbody>
+</table>
+:ET

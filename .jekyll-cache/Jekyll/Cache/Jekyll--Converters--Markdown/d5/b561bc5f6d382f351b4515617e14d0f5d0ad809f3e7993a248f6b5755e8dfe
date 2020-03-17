@@ -1,0 +1,43 @@
+I"2<table>
+  <thead>
+    <tr>
+      <th>Event</th>
+      <th>1st</th>
+      <th>2nd</th>
+      <th>3rd</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Super Sedans</td>
+      <td>Tyson Moon</td>
+      <td>Daryl Moon</td>
+      <td>Paul Kranitis</td>
+    </tr>
+    <tr>
+      <td>F500s</td>
+      <td>Kent McDonald</td>
+      <td>Sean Barnett</td>
+      <td>Paul Gray</td>
+    </tr>
+    <tr>
+      <td>F500s Juniors</td>
+      <td>Blake Mathews</td>
+      <td>Harry Dean</td>
+      <td>Mitchell Saunderson</td>
+    </tr>
+    <tr>
+      <td>Production Sedans</td>
+      <td>Damian McAlister</td>
+      <td>Brett Norman</td>
+      <td>Terry Mulac</td>
+    </tr>
+    <tr>
+      <td>Micro Sprints</td>
+      <td>Jackson Isaaes</td>
+      <td>Andrew Baker</td>
+      <td>Jason Sommers</td>
+    </tr>
+  </tbody>
+</table>
+:ET
