@@ -1,6 +1,9 @@
 name: Jekyll site CI
 
-on: [push]
+on:
+  push:
+    branches:
+      - master
 
 jobs:
   build:
@@ -13,7 +16,7 @@ jobs:
       run: |
         sudo apt update && \
         sudo apt install awscli jekyll
-    
+
     - name: Run Makefile
       env:
          AWS_ACCESS_KEY_ID: ${{ secrets. aws_access_key_id }}
